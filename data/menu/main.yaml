@@ -1,6 +1,7 @@
 ---
 main:
   - name: 数学I
+    ref: "/math1/"
     sub:
       - name: 数と式
         ref: "/math1/sec1/index.md"
