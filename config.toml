@@ -1,3 +1,21 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "無限の彼方へ"
+baseURL = "http://math.btakeshi.xyz"
+title = "ますどら"
+theme = "hugo-geekdoc"
+
+publishDir = "docs"
+
+pluralizeListTitles = false
+
+# Geekdoc required configuration
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+disablePathToLower = true
+
+# Needed for mermaid shortcodes
+[markup]
+  [markup.goldmark.renderer]
+    # Needed for mermaid shortcode
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 9
