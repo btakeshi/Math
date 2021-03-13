@@ -1,11 +1,17 @@
 ---
 main:
-  - name: Level 1
+  - name: 数学I
     sub:
       - name: Level 1.1
       - name: Level 1.2
       - name: Level 1.3
-  - name: Level 2
+  - name: 数学II
     sub:
       - name: Level 2.1
       - name: Level 2.2
+  - name: 数学III
+  - name: 数学A
+  - name: 数学B
+  - name: 数学C
+
+
