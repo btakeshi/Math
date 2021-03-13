@@ -2,9 +2,11 @@
 main:
   - name: 数学I
     sub:
-      - name: Level 1.1
-      - name: Level 1.2
-      - name: Level 1.3
+      - name: 数と式
+      - name: 集合と命題
+      - name: ２次関数
+      - name: 図形と計量
+      - name: データの分析
   - name: 数学II
     sub:
       - name: Level 2.1
@@ -13,5 +15,3 @@ main:
   - name: 数学A
   - name: 数学B
   - name: 数学C
-
-
