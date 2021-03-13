@@ -3,7 +3,7 @@ main:
   - name: 数学I
     sub:
       - name: 数と式
-        ref: "/math1/"
+        ref: "/math1/sec1/index.md"
       - name: 集合と命題
       - name: ２次関数
       - name: 図形と計量
