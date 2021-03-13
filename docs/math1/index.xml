@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ますどら</title>
-    <link>http://math.btakeshi.xyz/</link>
-    <description>Recent content on ますどら</description>
+    <title>Math1 on ますどら</title>
+    <link>http://math.btakeshi.xyz/math1/</link>
+    <description>Recent content in Math1 on ますどら</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 13 Mar 2021 22:34:33 +0900</lastBuildDate><atom:link href="http://math.btakeshi.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Mar 2021 22:34:33 +0900</lastBuildDate><atom:link href="http://math.btakeshi.xyz/math1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sec1</title>
       <link>http://math.btakeshi.xyz/math1/sec1/</link>
